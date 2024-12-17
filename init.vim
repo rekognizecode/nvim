@@ -25,3 +25,5 @@ set shellcmdflag=-c
 set shellquote=\"
 set shellxquote=
 
+"set system clipboard as standard clipboard
+set clipboard+=unnamedplus
